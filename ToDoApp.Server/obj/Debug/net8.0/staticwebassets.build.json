@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "rmnUvtzGuKWiQFT8ztqkNU+dzplLT6RO23wjOPRK1/Y=",
+  "Source": "ToDoApp.Server",
+  "BasePath": "_content/ToDoApp.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\pc\\Desktop\\SKILLED_PSI\\ToDoApp\\todoapp.client\\todoapp.client.esproj",
+      "Version": 2,
+      "Source": "todoapp.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
